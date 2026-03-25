@@ -1,0 +1,4 @@
+adafruit-circuitpython-dht
+mysql-connector-python
+Adafruit-Blinka
+rpi-lgpio
